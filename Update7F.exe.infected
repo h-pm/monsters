@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Length: 9728
+Content-Type: application/octet-stream
+Last-Modified: Fri, 25 Mar 2011 06:41:54 GMT
+Accept-Ranges: bytes
+ETag: "aafefebab7eacb1:c91b"
+Server: Microsoft-IIS/6.0
+MicrosoftOfficeWebServer: 5.0_Pub
+X-Powered-By: ASP.NET
+Date: Fri, 25 Mar 2011 07:16:07 GMT
+Connection: close
+
